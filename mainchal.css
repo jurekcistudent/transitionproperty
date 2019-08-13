@@ -1,0 +1,11 @@
+.box {
+  background-color: #79797f;
+  width: 150px;
+  height: 150px;
+  transition-property: background-color;
+  transition-duration: 1s;
+}
+
+.box:hover {
+  background-color: #e84610;
+}
